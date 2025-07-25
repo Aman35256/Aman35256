@@ -1,17 +1,14 @@
 ## Hi there 👋,  I'm Aman Mishra
 
 🎓 I'm a Computer Science undergraduate at VIT Bhopal, specializing in Cloud Computing and Automation.  
+
 💻 Passionate about building AI-driven applications and solving real-world problems with code.  
+
 🌩️ Exploring cloud-native development, automation, and machine learning.  
+
 📫 Reach me: 
-<a href="https://www.linkedin.com/in/amanmishra35256" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:aman35256@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-mishra-15x5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmanMishra8201) 
 ---
 
 ## 🛠️ Tech Stack
@@ -24,12 +21,16 @@
 ---
 
 
-## 📊 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman35256&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aman35256&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aman35256&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman35256&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman35256&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aman35256&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman35256&layout=compact&theme=tokyonight)
+---
+[![](https://visitcount.itsvg.in/api?id=Aman35256&icon=0&color=13)](https://visitcount.itsvg.in)
 
 
 
