@@ -13,10 +13,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: HTML, CSS, Python, C++ 
+- **Languages**: HTML, CSS, JavaSript, Python, C++ 
 - **Frameworks**: 
 - **Cloud & DevOps**:   
-- **Tools**: Git, Github
+- **Tools**: Git, Github, VS Code, Vercel
 
 ---
 
