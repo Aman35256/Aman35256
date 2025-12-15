@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on python related projects.<br>👯 I’m looking to collaborate on any python projects.<br>🤝 I’m looking for help with machine learning projects.<br>🌱 I’m currently learning backend development.<br>⚡My Learning is keep going and i am keep progressing.<br>
+🔭 I’m currently working on python related projects.<br>👯 I’m looking to collaborate on any python projects.<br>🤝 I’m looking for help with machine learning projects.<br>🌱 I’m currently learning backend development.<br>⚡My Learning is keep going and keep progressing.<br>
 
 
 ## 🌐 Socials:
